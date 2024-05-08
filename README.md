@@ -57,7 +57,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/1fZB.gif"  />
+
 
 ###
 
@@ -75,6 +75,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/karthikprabhu10/karthikprabhu10/output/snake.svg" alt="Snake animation" />
 
 ###
