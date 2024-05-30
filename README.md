@@ -62,13 +62,13 @@
 ### My Social
 
 <div align="left">
-  <a href="https://youtube.com/yourchannel" target="_blank">
+  <a href="https://youtube.com/yourchannel" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo" />
   </a>
   <a href="https://www.instagram.com/karthik10.__" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" />
   </a>
-  <a href="https://discord.com/invite/yourdiscord" target="_blank">
+  <a href="https://discord.com/invite/yourdiscord" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo" />
   </a>
   <a href="mailto:yourmail@gmail.com" target="_blank">
