@@ -65,7 +65,7 @@
   <a href="https://youtube.com/yourchannel" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo" />
   </a>
-  <a href="https://www.instagram.com/karthik10.__" target="_blank">
+  <a href="https://www.instagram.com/karthik10.__" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" />
   </a>
   <a href="https://discord.com/invite/yourdiscord" target="_blank">
