@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is KARTHIK and I'm a Student Web Developer, from INDIA Google (Noto Color Emoji - Unicode 15.1).</h2>
+<h2 align="left">Hi 👋! My name is KARTHIK and I'm a Student Web Developer, from INDIA 🇮🇳.</h2>
 
 ###
 
