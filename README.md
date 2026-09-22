@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://kaprabhu.me](https://kaprabhu.me)
+- 👨‍💻 All of my projects are available at [https://kaprabhu.is-a.dev](https://kaprabhu.is-a.dev)
 
 - 📝 I regularly write articles on [https://kaprabhu.me/blog](https://kaprabhu.me/blog)
 
